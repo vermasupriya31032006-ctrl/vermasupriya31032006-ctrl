@@ -65,6 +65,11 @@ AI • IoT • Embedded Systems • Data Structures & Algorithms
 <p align="center">
   <img src="https://raw.githubusercontent.com/vermasupriya31032006-ctrl/vermasupriya31032006-ctrl/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vermasupriya31032006-ctrl&theme=github-compact&hide_border=true" />
+</p>
 - ## 🚀 Featured Projects
 
 - EVisionAI
