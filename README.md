@@ -4,6 +4,19 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Electronics+%26+Communication+Engineering+Student;AI+%7C+IoT+%7C+Embedded+Systems;Learning+Data+Structures+%26+Algorithms;Building+Projects+with+Python+and+C%2B%2B" alt="Typing SVG" />
 </p>
+<h1 align="center">Hi 👋, I'm Supriya Verma</h1>
+
+<h3 align="center">
+Electronics & Communication Engineering Student
+</h3>
+
+<p align="center">
+AI • IoT • Embedded Systems • Data Structures & Algorithms
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vermasupriya31032006-ctrl&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
 # Hi 👋 I'm Supriya Verma
 
 ### Electronics & Communication Engineering Student
