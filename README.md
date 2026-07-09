@@ -1,6 +1,9 @@
 <p align="center">
   <img src="banner.png.jpeg" width="100%">
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Electronics+%26+Communication+Engineering+Student;AI+%7C+IoT+%7C+Embedded+Systems;Learning+Data+Structures+%26+Algorithms;Building+Projects+with+Python+and+C%2B%2B" alt="Typing SVG" />
+</p>
 # Hi 👋 I'm Supriya Verma
 
 ### Electronics & Communication Engineering Student
