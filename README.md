@@ -60,6 +60,11 @@ AI • IoT • Embedded Systems • Data Structures & Algorithms
 <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
 
 </p>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vermasupriya31032006-ctrl/vermasupriya31032006-ctrl/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 - ## 🚀 Featured Projects
 
 - EVisionAI
