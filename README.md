@@ -40,4 +40,20 @@
 - SmartSenseHub
 - Summer Assignment (DSA)
 - AI Website Generator
-- 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vermasupriya31032006-ctrl&show_icons=true&theme=tokyonight" />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vermasupriya31032006-ctrl&theme=tokyonight" />
+</p>
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermasupriya31032006-ctrl&layout=compact&theme=tokyonight" />
+</p>
