@@ -1,16 +1,43 @@
-## Hi there 👋
+<p align="center">
+  <img src="banner.png" width="100%">
+</p>
+# Hi 👋 I'm Supriya Verma
 
-<!--
-**vermasupriya31032006-ctrl/vermasupriya31032006-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Electronics & Communication Engineering Student
 
-Here are some ideas to get you started:
+🎓 GL Bajaj Institute of Technology and Management
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about AI, IoT, Embedded Systems and Data Structures
+
+🌱 Currently learning C++, Python and Machine Learning
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/supriya-verma-aa571330b
+- Email: vermasupriya31032006@gmail.com
+- ## 💻 Tech Stack
+
+- C++
+- Python
+- Arduino
+- ESP32
+- Git
+- GitHub
+- HTML
+- CSS
+- JavaScript
+- Flask
+- Streamlit
+- Machine Learning
+- ## 🌱 Currently Learning
+
+- Data Structures & Algorithms
+- Embedded Systems
+- Artificial Intelligence
+- Internet of Things
+- ## 🚀 Featured Projects
+
+- EVisionAI
+- SmartSenseHub
+- Summer Assignment (DSA)
+- AI Website Generator
+- 
